@@ -1,0 +1,65 @@
+<sounds root="sfx/">
+
+	<sound name = "normal attack">
+		<sample weight="1" path="normal attack1.wav"/>
+    <sample weight="1" path="normal attack2.wav"/>
+    <sample weight="1" path="normal attack3.wav"/>
+	</sound>
+  <sound name = "heavy attack">
+  <sample weight="1" path="Heavy attack1.wav"/>
+  </sound>
+  <sound name = "kaka">
+		<sample weight="0.2" path="kaka1.wav"/>
+    <sample weight="1" path="kaka2.wav"/>
+	</sound>
+  <sound name = "power">
+		<sample weight="1" path="power1.wav"/>
+    <sample weight="1" path="power2.wav"/>
+    <sample weight="1" path="power3.wav"/>
+	</sound>
+  <sound name = "healing">
+		<sample weight="1" path="healing1.wav"/>
+    <sample weight="1" path="healing2.wav"/>
+    <sample weight="1" path="healing3.wav"/>
+	</sound>
+  <sound name = "exhaust">
+    <sample weight = "1" path = "exhaust.wav"/>
+    <sample weight = "1" path = "exhaust.wav"/>
+    <sample weight = "1" path = "exhaust.wav"/>
+  </sound>
+  <sound name = "cardSelect">
+    <sample weight = "1" path = "cardSelect.wav"/>
+    <sample weight = "1" path = "cardSelect.wav"/>
+    <sample weight = "1" path = "cardSelect.wav"/>
+  </sound>
+  <sound name = "specialAtk">
+    <sample weight = "1" path = "specialAtk1.wav"/>
+    <sample weight = "1" path = "specialAtk2.wav"/>
+    <sample weight = "1" path = "specialAtk3.wav"/>
+  </sound>
+  <sound name = "gainDefense">
+    <sample weight = "1" path = "gainDefense1.wav"/>
+    <sample weight = "1" path = "gainDefense2.wav"/>
+    <sample weight = "1" path = "gainDefense3.wav"/>
+  </sound>
+  <sound name = "thunderClap">
+    <sample weight = "1" path = "thunderClap.wav"/>
+  </sound>
+  <sound name = "bludgeon">
+    <sample weight = "1" path = "bludgeon.wav"/>
+  </sound>
+  <sound name = "defenseBreak">
+    <sample weight = "1" path = "denfenseBreak.wav"/>
+  </sound>
+  <sound name = "monster">
+    <sample weight = "1" path = "monster1.wav"/>
+	<sample weight = "1" path = "monster2.wav"/>
+	<sample weight = "1" path = "monster3.wav"/>
+  </sound>
+  <sound name = "selectCard">
+    <sample weight = "1" path = "selectCard.wav"/>
+  </sound>
+  <sound name = "mouseClick">
+    <sample weight = "1" path = "mouseClick.wav"/>
+  </sound>
+</sounds>

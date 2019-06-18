@@ -1,0 +1,200 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Black Star" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Calendar" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Cauldron" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Kettlebell" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Bank" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="kunai" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="shuriken" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="paper Frog" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="old Coin" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="red Skull" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sunflower" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="matryoshka" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="clay" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="nunchaku" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pen" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="strawberry" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="waffle" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="mango" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pear" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="meat" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pantograph" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="ectoplasm" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cultist Mask" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sozu" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cursed Key" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="crown" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="question Card" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</pool>
+
+
+	<Pool Name="shop">
+		<Item Name="Black Star" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Calendar" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Cauldron" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Kettlebell" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Bank" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="kunai" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="shuriken" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="paper Frog" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="old Coin" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="red Skull" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="sunflower" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="matryoshka" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="clay" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="nunchaku" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="pen" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="strawberry" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="waffle" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="mango" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="pear" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="meat" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="pantograph" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="ectoplasm" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="cultist Mask" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="sozu" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="cursed Key" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="crown" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="question Card" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</pool>
+
+
+	<Pool Name="boss">
+		<Item Name="Black Star" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Calendar" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Cauldron" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Kettlebell" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Bank" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="kunai" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="shuriken" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="paper Frog" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="old Coin" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="red Skull" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sunflower" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="matryoshka" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="clay" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="nunchaku" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pen" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="strawberry" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="waffle" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="mango" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pear" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="meat" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pantograph" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="ectoplasm" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cultist Mask" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sozu" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cursed Key" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="crown" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="question Card" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</pool>
+
+
+	<Pool Name="curse">
+		<Item Name="cursed Key" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</pool>
+
+
+	<Pool Name="goldenChest">
+		<Item Name="cultist Mask" weight="1" DecreaseBy="0.4" RemoveOn="0.1" />
+		<Item Name="red Skull" weight="1" DecreaseBy="0.4" RemoveOn="0.1" />
+	</pool>
+
+	<Pool Name="greedTreasure">
+		<Item Name="Black Star" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Calendar" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Cauldron" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Kettlebell" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Bank" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="kunai" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="shuriken" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="paper Frog" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="old Coin" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="red Skull" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sunflower" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="matryoshka" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="clay" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="nunchaku" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pen" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="strawberry" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="waffle" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="mango" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pear" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="meat" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pantograph" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="ectoplasm" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cultist Mask" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sozu" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cursed Key" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="crown" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="question Card" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</pool>
+
+
+	<Pool Name="greedBoss">
+		<Item Name="Black Star" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Calendar" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Cauldron" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Kettlebell" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="Bank" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="kunai" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="shuriken" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="paper Frog" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="old Coin" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="red Skull" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="sunflower" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="matryoshka" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="clay" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="nunchaku" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="pen" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="strawberry" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="waffle" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="mango" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="pear" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="meat" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="pantograph" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="ectoplasm" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="cultist Mask" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="sozu" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="cursed Key" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="crown" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+		<Item Name="question Card" weight="1" DecreaseBy="0.5" RemoveOn="0.1" />
+	</pool>
+
+
+	<Pool Name="greedshop">
+		<Item Name="Black Star" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Calendar" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Cauldron" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Kettlebell" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="Bank" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="kunai" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="shuriken" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="paper Frog" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="old Coin" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="red Skull" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sunflower" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="matryoshka" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="clay" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="nunchaku" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pen" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="strawberry" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="waffle" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="mango" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pear" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="meat" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="pantograph" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="ectoplasm" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cultist Mask" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="sozu" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="cursed Key" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="crown" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+		<Item Name="question Card" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+	</pool>
+
+
+
+
+</ItemPools>

@@ -1,0 +1,10 @@
+<players root="gfx/characters/costumes/"
+         portraitroot="gfx/ui/boss/"
+         nameimageroot="gfx/ui/boss/"
+         bigportraitroot="gfx/ui/stage/">
+	<player name="Ironclad" skin="Character_001_Thanos.png" hp = "10" bombs ="1" keys = "1" coins="30" items = ""  canShoot = "false"
+          nameimage="PlayerName_Thanos.png"
+          portrait="playerportrait_Thanos.png"
+          bigportrait="playerportraitbig_Thanos.png" skinColor="-1"/>
+
+</players>

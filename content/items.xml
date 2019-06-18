@@ -1,0 +1,70 @@
+<items gfxroot="gfx/items/" version="1">
+  <!--抽卡器-->
+  <active name = "Get Cards" description="Get Cards" gfx="getCards.png" maxcharges = "1"  /> 
+  <!--燃烧之血-->
+	<passive name="Burning Blood" description="The POWER!!!!" gfx="burningBlood.png" maxhearts = "2"  /> 
+  <!--黑星-->
+  <passive name="Black Star" description="More Relics!" gfx="blackStar.png"  />
+  <!--历石-->
+  <passive name="Calendar" description="The Cheap Time" gfx="calendar.png" />
+  <!--药水罐-->
+  <passive name="Cauldron" description="Do you need some pills?" gfx="cauldron.png" />
+  <!--12面体-->
+  <passive name="Dodecahedron" description="Energy up,It's not D12" gfx="dodecahedron.png" />
+  <!--哑铃-->
+  <active name="Kettlebell" description="OH!It's Too Heavy!" gfx="kettlebell.png" maxcharges = "6"  />
+  <!--哑铃完成-->
+  <active name="kettlebellhappy" description="You're grew up" gfx="kettlebellhappy.png"  />
+  <!--弹珠袋-->
+  <passive name="Marble" description="Shoot monster's eyes!" gfx="marble.png"  />
+  <!--存钱罐-->
+  <passive name="Bank" description="Coins,Coins and Coins!" gfx="bank.png"  />
+  <!--坏掉的存钱罐-->
+  <passive name="Bank Useless" description="Useless,Useless and Useless!" gfx="bankUseless.png"  />
+  <!--苦无-->
+  <passive name="kunai" description="I AM Ninjaaaa!!" gfx="kunai.png"  />
+  <!--手里剑-->
+  <passive name="shuriken" description="I AM Ninjaaaa!!too!" gfx="shuriken.png"  />
+  <!--纸蛙-->
+  <passive name="paper Frog" description="Too young Too naive" gfx="paperFrog.png"  />
+  <!--古钱币-->
+  <passive name="old Coin" description="It's very valuable" gfx="oldCoin.png"  />
+  <!--红头骨-->
+  <passive name="red Skull" description="Ancient and Bloody" gfx="redSkull.png" cache="damage" />
+  <!--小fafa-->
+  <passive name="sunflower" description="Howdy!I'm Flowey,FLOWEY the FLOWER" gfx="sunflower.png"  />
+  <!--套娃-->
+  <passive name="matryoshka" description="More Relics!" gfx="matryoshka.png"  />
+  <!--粘土-->
+  <passive name="clay" description="Perfect Protection" gfx="clay.png"  />
+  <!--双截棍-->
+  <passive name="nunchaku" description="Chinese Kung Fu!" gfx="nunchaku.png"  />
+  <!--钢笔尖-->
+  <passive name="pen" description="sharp needle" gfx="pen.png"  />
+  <!--华夫饼-->
+  <passive name="waffle" description="HP up+++" gfx="waffle.png" maxhearts = "6" hearts="99" />
+  <!--草莓-->
+  <passive name="strawberry" description="HP up" gfx="strawberry.png" maxhearts = "2" hearts="2" />
+  <!--芒果-->
+  <passive name="mango" description="HP up" gfx="mango.png" maxhearts = "2" hearts="2" />
+  <!--梨子-->
+  <passive name="pear" description="HP up" gfx="pear.png" maxhearts = "2" hearts="2" />
+  <!--肉-->
+  <passive name="meat" description="Better than [MEAT!]" gfx="meat.png" />
+  <!--缩放仪-->
+  <passive name="pantograph" description="More protection" gfx="pantograph.png"  />
+  <!--灵外体制-->
+  <passive name="ectoplasm" description="Energy up,Coins down" gfx="ectoplasm.png"  />
+  <!--KAKA-->
+  <passive name="cultist Mask" description="KAKAKAKAKA" gfx="cultistMask.png" />
+  <!--露水-->
+  <passive name="sozu" description="Energy up,Pills down" gfx="sozu.png" />
+  <!--损坏的方块-->
+  <passive name="runic Cube" description="More Cards" gfx="runicCube.png" />
+  <!--诅咒钥匙-->
+  <passive name="cursed Key" description="Energy up,Cursed up" gfx="cursedKey.png" />
+  <!--碎皇冠-->
+  <passive name="crown" description="Energy up,Cards down" gfx="crown.png" />
+  <!--问号卡-->
+  <passive name="question Card" description="Cards up" gfx="questionCard.png" />
+</items>
